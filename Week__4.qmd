@@ -4,6 +4,10 @@ author: "TingTing"
 date: 03/24/2025
 format: html
 editor: visual
+execute:
+    echo: false
+    warning: false
+    message: false
 ---
 
 ## 

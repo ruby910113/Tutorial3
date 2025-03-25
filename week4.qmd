@@ -3,6 +3,10 @@ title: "Learning to reference figures, tables and sections"
 author: TingTing,Wu
 format: html
 editor: visual
+execute:
+    echo: false
+    warning: false
+    message: false
 ---
 
 ## Today is Tuesday
